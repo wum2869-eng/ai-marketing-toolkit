@@ -1,8 +1,11 @@
-![AI Marketing Toolkit Demo](blob:https://github.com/abb8d33a-7be2-4f7b-8b1d-a287297f27d8)
 
 # AI Marketing Toolkit
 
 A small open-source toolkit for creating marketing copy, AI image prompts, and preparing images for common social-media and e-commerce formats.
+
+## Demo
+
+![AI Marketing Toolkit Demo](./assets/demo.png)
 
 ## Features
 
